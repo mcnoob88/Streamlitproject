@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run comp-concrete-ml.py
+web:sh setup.sh && streamlit run comp-concrete-ml.py
